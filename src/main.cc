@@ -1,5 +1,8 @@
 #include <iostream>
+#ifndef EX01_LINEARSEARC_LINEARSEARCH_H
+#define EX01_LINEARSEARC_LINEARSEARCH_H
 
+#endif //EX01_LINEARSEARC_LINEARSEARCH_H
 
 namespace edu {namespace vcccd { namespace vc { namespace csv15{
                     template <class T>
